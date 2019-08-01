@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/pre-requisites/http/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/http/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/pre-requisites/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/kubernetes/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/kubernetes/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/pre-requisites/http-clients/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/http-clients/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/pre-requisites/linux-server/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/linux-server/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ajit555.github.io/microservices-with-kubernetes-istio/tags/</loc>
     <priority>0</priority>
   </url>
   

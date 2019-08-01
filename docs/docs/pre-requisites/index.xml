@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pre-requisites on Microservices with Kubernetes and Istio</title>
-    <link>http://example.org/docs/pre-requisites/</link>
+    <link>https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/</link>
     <description>Recent content in Pre-requisites on Microservices with Kubernetes and Istio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/docs/pre-requisites/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ajit555.github.io/microservices-with-kubernetes-istio/docs/pre-requisites/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
